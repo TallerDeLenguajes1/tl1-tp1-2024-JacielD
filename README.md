@@ -6,9 +6,9 @@
 
 con este comando puedes ordenarle a Git que ignore el archivo normalmente los archivos que decidimos ignorar son artefactos de compilacion y archivos generados por la pc entre otros como
 
--Caches de dependencias
--archivos generados en tiempo de ejecucion
--archivos ocultos del sistema, etc
+- Caches de dependencias
+- archivos generados en tiempo de ejecucion
+- archivos ocultos del sistema, etc
 
 para ignorar un archivo debes abrir git bash en tu repositorio local y el ta tabla de comandos escribir:
 
