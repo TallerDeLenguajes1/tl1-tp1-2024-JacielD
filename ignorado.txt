@@ -1,0 +1,19 @@
+# Creado por https://www.toptal.com/developers/gitignore/api/git
+# Editar en https://www.toptal.com/developers/gitignore?templates=git
+
+### ###
+# Creado por git para copias de seguridad. Para deshabilitar las copias de seguridad en Git:
+# $ git config --global mergetool.keepBackup falso
+*.origen
+
+# Creado por git al usar herramientas de combinación para conflictos
+*.RESPALDO.*
+*.BASE.*
+*.LOCAL.*
+*.REMOTO.*
+*_BACKUP_*.txt
+*_BASE_*.txt
+*_LOCAL_*.txt
+*_REMOTE_*.txt
+
+# Fin de https://www.toptal.com/developers/gitignore/api/git
